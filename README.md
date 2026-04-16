@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Mathias Loh</h1>
+<h3 align="left">Backend Engineer. Building and exploring AI-powered developer tools</h3>
 
-<!--
-**Odwiys/Odwiys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+- Software Engineer focused on backend systems and AI  
+- Interested in building scalable, real-world systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+- **[Adspecit](https://www.adspecit.com/)**  
+AI-powered auditing tool for Meta Ads that analyzes your ad account and identifies what’s hurting performance.
+  
+---
+
+## Tech Stack
+```txt
+Languages:    Python, TypeScript, SQL
+Backend:      Node.js, FastAPI, Tornado
+Frontend:     React, Next.js
+Database:     PostgreSQL, MongoDB
+Cloud:        AWS (learning), GCP (learning)
+Tools:        Git, Docker
+AI:           Claude, OpenAI Codex
