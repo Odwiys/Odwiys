@@ -13,6 +13,9 @@
 
 - **[Adspecit](https://www.adspecit.com/)**  
 AI-powered auditing tool for Meta Ads that analyzes your ad account and identifies what’s hurting performance.
+
+- **[Propflow](https://real-estate-landing-pages-orcin.vercel.app/)**
+Demo real estate landing pages with live lead capture and WhatsApp chat - **[github](https://github.com/Odwiys/propflow)**
   
 ---
 
@@ -25,3 +28,5 @@ Database:     PostgreSQL, MongoDB
 Cloud:        AWS (learning), GCP (learning)
 Tools:        Git, Docker
 AI:           Claude, OpenAI Codex
+Automation:   n8n, airtable
+](https://github.com/Odwiys/propflow)
