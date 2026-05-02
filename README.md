@@ -29,4 +29,3 @@ Cloud:        AWS (learning), GCP (learning)
 Tools:        Git, Docker
 AI:           Claude, OpenAI Codex
 Automation:   n8n, airtable
-](https://github.com/Odwiys/propflow)
