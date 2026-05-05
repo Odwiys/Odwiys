@@ -16,6 +16,9 @@ AI-powered auditing tool for Meta Ads that analyzes your ad account and identifi
 
 - **[Propflow](https://real-estate-landing-pages-orcin.vercel.app/)**  
 Demo real estate landing pages with live lead capture and WhatsApp chat - **[github](https://github.com/Odwiys/propflow)**
+
+- **LeadsPro**  
+Full-stack lead management application with OpenAI-powered sentiment analysis for lead classification - **[github](https://github.com/Odwiys/LeadsPro)**
   
 ---
 
